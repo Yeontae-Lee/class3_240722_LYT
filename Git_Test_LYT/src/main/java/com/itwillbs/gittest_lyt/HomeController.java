@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 // 주석 추가할 자린데!!!!!!
 @Controller
 public class HomeController {
-	// 내꺼 내가 바꿈dd
+	// 내꺼 내가 바꿈
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
